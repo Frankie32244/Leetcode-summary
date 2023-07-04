@@ -9,11 +9,11 @@
   - 2022年1月份-2月份中旬，坚持每日刷题，坚持了一个寒假。
   - 2022年上半年：2月下半月在公司实习，遂低频率刷题，4，5月份偶尔刷题
   - 2022年8月份：坚持刷题，主要是前缀和，滑动窗口，哈希表等题目。刷到了500题
-![002]([https://github.com/Frankie32244/Leetcode_summary/blob/main/Pics/002.PNG](https://github.com/Frankie32244/Leetcode_summary/tree/main/Pics))
+![002](./Pics/002.png)
 
 
   - 2023/2中上旬 23年2月份我开始复习总结leetcode刷题历程。把英文版的又刷了一遍，通过率百分之80多。
-![003]([https://github.com/Frankie32244/Leetcode_summary/blob/main/Pics/003.PNG](https://github.com/Frankie32244/Leetcode_summary/tree/main/Pics))
+![003](./Pics/003.png)
   - 2023/2月下旬 写了一个总结文档吧。各个模块的算法常见题型，以及各种题型重点考察的思维方法和一些常见的模版。例如二叉树->递归，递归模版，回溯模板。
 
 
