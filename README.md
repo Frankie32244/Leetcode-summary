@@ -3,7 +3,7 @@
   - 2021/10/9号开始接触到有这个刷算法的网站。
   - 11月中旬开始刷题，起步艰难。
   - 12月份高强度刷题（这个时候进步飞快，截止12月25，刷了200道质量很高的题）
-![001](https://github.com/Frankie32244/Leetcode_summary/tree/main/Pics/001.PNG))
+![001](https://github.com/Frankie32244/Leetcode_summary/tree/main/Pics/001.PNG)
 
 
   - 2022年1月份-2月份中旬，坚持每日刷题，坚持了一个寒假。
