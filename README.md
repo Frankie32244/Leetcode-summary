@@ -1,4 +1,4 @@
-# my_own_leetcode_summary
+# Leetcode-summary
 ### 1、leetcode刷题历程
   - 2021/10/9号开始接触到有这个刷算法的网站。
   - 11月中旬开始刷题，起步艰难。
