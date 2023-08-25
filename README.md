@@ -15,6 +15,7 @@
   - 2023/2中上旬 23年2月份我开始复习总结leetcode刷题历程。把英文版的又刷了一遍，通过率百分之80多。
 ![003](https://github.com/Frankie32244/Leetcode_summary/raw/main/Pics/003.PNG)
   - 2023/2月下旬 写了一个总结文档。各个模块的算法常见题型，以及各种题型重点考察的思维方法和一些常见的模版。例如二叉树->递归，递归模版，回溯模板。
+  - 2023/8月下旬，本想按照<代码随想录>这些题目再刷一遍，想着还是等到研三秋招的时候再看吧。leetcode刷题先告一段落。
 
 
 ### 2、总结
@@ -26,4 +27,5 @@
 - 动态规划参考: https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns
 - 代码随想录: https://programmercarl.com/
 - 宫水三叶的刷题日记 https://github.com/SharingSource/LogicStack-LeetCode
-
+- 剑指offer： https://leetcode.cn/studyplan/coding-interviews/
+- leetcode 热题100 : https://leetcode.cn/studyplan/top-100-liked/
